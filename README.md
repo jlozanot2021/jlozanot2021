@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/jlozanot2021/jlozanot2021/blob/master/assets/bicho.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/jlozanot2021/jlozanot2021/assets/bicho.gif">
 </div>
 
 </br>
