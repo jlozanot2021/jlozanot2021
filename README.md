@@ -1,4 +1,4 @@
-### SUUUUUUUU 🇵🇹🇵🇹
+### SIIIIIUUU 🇵🇹🇵🇹
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="assets/bicho.gif">
