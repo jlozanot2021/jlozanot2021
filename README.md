@@ -1,7 +1,7 @@
 ### SIIIIIUUU 7️⃣🐐⚽👑🇵🇹🇵🇹
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/bicho.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="assets/shawn.gif">
 </div>
 
 </br>
