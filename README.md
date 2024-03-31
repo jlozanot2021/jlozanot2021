@@ -1,13 +1,4 @@
 <!--### SIIIIIUUU 7️⃣🐐⚽👑🇵🇹🇵🇹-->
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/shawn.gif">
-</div>
-
-</br>
-</br>
-</br>
-
 <!--
 **jlozanot2021/jlozanot2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
